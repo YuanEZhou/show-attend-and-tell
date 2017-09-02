@@ -6,7 +6,7 @@ TensorFlow~1.2 Implementation of "Show, Attend and Tell".
 
 2.I modify the implementation of doubly stochastic regularization which makes more sense.
 
-3.I use weight transposed shared trick which reduces model parameters and gains a point promotion for BLEU1 metricI 
+3.I use weight transposed shared trick which reduces model parameters and gains a point promotion for BLEU1 metric.
 
 4.I change the vocabulary size to 10000.
 
