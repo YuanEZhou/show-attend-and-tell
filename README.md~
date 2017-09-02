@@ -7,5 +7,5 @@ This is a modification version of  yunjey's code(https://github.com/yunjey/show-
 
 3.I use weight transposed shared trick which reduces model parameters and gains a point promotion for BLEU1 metricI 
 
-4.I change the vocabulary size to 10000.
+4. 
 
